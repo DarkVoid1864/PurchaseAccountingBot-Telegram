@@ -200,3 +200,12 @@ public class BotMyItem
     public string Title { get; set; } 
     public string Price { get; set; } 
 }
+
+
+
+
+
+
+
+
+
